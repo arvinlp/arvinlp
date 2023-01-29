@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arvinlp
-- 👀 I’m interested in Nothing!!!
-- 🌱 I’m currently learning Nothing!!!
-- 💞️ I’m looking to collaborate on Nothing!!!
+- 👋 Hi, I’m Arvin Loripour but my firends in tech call me @arvinlp
+- 👀 I’m interested in Design Application :)
+- 🌱 I’m currently learning Go Lang and Python !
+- 💞️ I’m looking to collaborate on Nothing :D
 - 📫 How to reach me @arvinlp
 
 <!---
