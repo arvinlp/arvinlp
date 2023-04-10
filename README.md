@@ -46,4 +46,4 @@
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=HamedAp">
 </a>
-<a href="https://github.com/HamedAp?tab=followers"><img src="https://img.shields.io/github/followers/HamedAp?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/arvinlp?tab=followers"><img src="https://img.shields.io/github/followers/arvinlp?label=Followers&style=social" alt="GitHub Badge"></a>
