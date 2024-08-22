@@ -36,7 +36,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinlp&size_weight=0.5&count_weight=0.5&theme=dracula&hide_border=true)](https://arvinlp.ir)
 <br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arvinlp&theme=dracula&hide_border=true)](https://arvinlp.ir)
+<figure><embed src="https://wakatime.com/share/@5ee08286-78be-4ccf-bc0a-e03f9fe8f245/0c1beec5-da84-48e4-ace1-951051cfad42.svg"></embed></figure>
 
 
 ## ❤ Views and Followers
