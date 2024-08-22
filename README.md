@@ -31,14 +31,16 @@
 ## 📊 My Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arvinlp&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinlp&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinlp&size_weight=0.5&count_weight=0.5)
   
   <br/>
     <p align="left"><a href="https://github.com/arvinlp"><img alt="Arvinlp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arvinlp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
     <br/>
   <p align="left" style="margin-right:10rem"><a href="https://github.com/arvinlp"><img alt="Arvinlp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinlp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><p/>
   <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinlp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
